@@ -25,7 +25,7 @@ async def gstart(_, message: Message):
         text="**Music Bot Is Online ✅**",
         reply_markup=InlineKeyboardMarkup(
             [[
-            InlineKeyboardButton(text="🎙️ Support Group 🎙️", url="https://t.me/MusicBotSupports")
+            InlineKeyboardButton(text="🎙️ Support Group 🎙️", url="https://t.me/AwesomeSupport")
             ]]
         )
     )
