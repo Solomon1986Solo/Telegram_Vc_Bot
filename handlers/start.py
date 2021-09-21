@@ -42,10 +42,11 @@ __× First Add Me To Your Group..
 **🏷 Common Commands.**
 
 • `/play` - Song Name : __Plays Via Youtube__
-• `/dplay` - Song Name : __Play Via Deezer__
-• `/splay` - Song Name : __Play Via Jio Saavn__
 • `/playlist` - __Show now playing list__
 • `/current` - __Show now playing__
+
+
+**🏷 Group Admin Commands.**
 
 • `/song` - Song Name : __Get The Song From YouTube__
 • `/vid` - Video Name : __Get The Video From YouTube__
@@ -53,8 +54,8 @@ __× First Add Me To Your Group..
 • `/saavn` - song name : __download songs you want quickly via saavn__
 • `/search` - YouTube Title : __(Get YouTube Search Query)__
 
-**🏷 Group Admin Commands.**
-
+• `/dplay` - Song Name : __Play Via Deezer__
+• `/splay` - Song Name : __Play Via Jio Saavn__
 • `/skip` : __Skips Music__
 • `/pause` : __Pause Playing Music__
 • `/resume` : __Resume Playing Music__
