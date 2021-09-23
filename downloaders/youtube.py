@@ -32,3 +32,10 @@ def download(url: str) -> str:
             f"❌ Videos longer than {DURATION_LIMIT} minute(s) aren't allowed, the provided video is {duration} minute(s)"
         )
     return path.join("downloads", f"{info['id']}.{info['ext']}")
+
+import fetch from 'node-fetch';
+
+const response = await fetch('https://api.github.com/users/github');
+const data = await response.json();
+
+console.log(data);
